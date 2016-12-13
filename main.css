@@ -34,3 +34,28 @@ input[type="checkbox"] {
 	margin-bottom: 60px;
 	overflow: hidden;
 }
+
+.box	{
+	padding: 30px;
+}
+
+.align	{
+	display: inline-block;
+	vertical-align: top;
+	padding: 30px;
+}
+
+.align2	{
+	padding-left: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
